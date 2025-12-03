@@ -17,4 +17,11 @@ public class StudentManager {
             System.out.println(s);
         }
     }
+    // Functions
+    // addStudent()
+    // viewStudents()
+    // searchStudent()
+    // updateStudent()
+    // deleteStudent()
+    // statistics()
 }
